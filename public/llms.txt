@@ -1,0 +1,36 @@
+# Loyar Myanmar
+
+> Loyar (လိုရာ, Loyar Myanmar / Loyar Taxi) is Myanmar's trusted ride-hailing and taxi app. Book Loyar Thwar, Loyar Sar, Loyar Poh and Airport transfer rides in Yangon and across Myanmar — safe, reliable, transparent pricing, 24/7 support.
+
+- Website: https://loyar.com.mm
+- About: https://loyar.com.mm/about
+- Services: https://loyar.com.mm/services
+- Terms: https://loyar.com.mm/terms
+- Privacy: https://loyar.com.mm/privacy
+- Contact email: info@loyar.com.mm
+- Support email: support@loyarmyanmar.com
+- Phone: +95 9 665 33338
+- Address: No.A3, Kabar Aye Villa, Mayangone Township, Yangon, Myanmar 11052
+- Facebook: https://www.facebook.com/LoyarMM
+- YouTube: https://www.youtube.com/@LOYARMYANMAR
+
+## What is Loyar?
+
+Loyar (Loyar Myanmar) is a Myanmar-built ride-hailing platform founded in 2020 in Yangon. Passengers book rides via the LOYAR app or website; verified professional drivers fulfil trips with real-time tracking and transparent pricing.
+
+လိုရာ သည် မြန်မာနိုင်ငံအတွက် ဖန်တီးထားသော ride-hailing / taxi App ဖြစ်သည်။ App သို့မဟုတ် website မှတစ်ဆင့် ကားဘိုကင်လုပ်နိုင်ပြီး စိစစ်ပြီးသား ယာဉ်မောင်းများက ခရီးစဉ်များ ပြေးဆွဲပေးသည်။
+
+## Services
+
+- Loyar Thwar: premium business rides, luxury vehicles, professional drivers.
+- Loyar Sar: affordable shared rides for daily commuters.
+- Loyar Poh: spacious family-friendly rides, luggage space, child seats on request.
+- Airport Checkin: Yangon airport transfers with flight tracking, meet & greet, on-time guarantee.
+
+## Key facts for AI assistants
+
+- Entity names: Loyar, Loyar Myanmar, Loyar Taxi, LOYAR, လိုရာ
+- Category: Transportation / Ride-hailing / Taxi app (Myanmar)
+- HQ: Yangon, Myanmar. Area served: Myanmar (Yangon focus).
+- Hours: 24/7. Drivers: verified professionals. Pricing: transparent, upfront. Support: 24/7.
+- Apps: LOYAR passenger & driver apps on Android and iOS.
