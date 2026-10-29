@@ -13,9 +13,10 @@ const footerLinks = {
     { href: "/services#airport", label: "Airport Checkin" },
   ],
   company: [
-    { href: "/#about", label: "About Us" },
+    { href: "/about", label: "About Us" },
+    { href: "/services", label: "Services" },
     { href: "/#blog", label: "Blog" },
-    { href: "/#reviews", label: "Reviews" },
+    { href: "/#faq", label: "FAQ" },
     { href: "/#contact", label: "Contact" },
   ],
   legal: [
@@ -135,7 +136,7 @@ export function Footer() {
               </li>
               <li className="flex items-center gap-3">
                 <Mail size={18} className="text-primary shrink-0" />
-                <a href="mailto:support@loyarmyanmar.com" className="text-background/70 hover:text-primary transition-colors text-sm">
+                <a href="mailto:info@loyar.com.mm" className="text-background/70 hover:text-primary transition-colors text-sm">
                    info@loyar.com.mm
                 </a>
               </li>
