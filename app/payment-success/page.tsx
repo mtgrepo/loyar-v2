@@ -17,12 +17,12 @@ export default function page() {
 
   const redirectToHome = () => {
     const isUser = verifyPayment?.data?.payment?.paymentType?.toLowerCase() === 'booking' || verifyPayment?.data?.payment?.paymentType?.toLowerCase() === 'schedule_booking';
-    const tripId = verifyPayment?.data?.transaction?.tripId ?? verifyPayment?.transaction?.tripId;
+    //const tripId = verifyPayment?.data?.transaction?.tripId ?? verifyPayment?.transaction?.tripId;
 
-    if (tripId !== null && tripId !== undefined) {
-      router.push('/');
-      return;
-    }
+    // if (tripId !== null && tripId !== undefined) {
+    //   router.push('/');
+    //   return;
+    // }
 
     if (isUser) {
       router.push(`/user/payment-success?merchOrderId=${merchOrderId}&paymentType=${verifyPayment?.data?.payment?.paymentType}`);
